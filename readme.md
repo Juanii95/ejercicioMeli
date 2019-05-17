@@ -1,4 +1,4 @@
-# ¡Bienvenido/a al ejercicio de Meli!
+# ¡Bienvenido/a al ejercicio de Mercado Libre!
 
 
 ## Estructura del proyecto
